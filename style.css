@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  background: url("sounds/image.png")
+  background: url("image/image.png")
     no-repeat center/cover;
 }
 
